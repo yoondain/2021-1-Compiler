@@ -1,0 +1,12 @@
+class Student(){
+    String name;
+    int age;
+
+    int getAge(){
+        return age;
+    }
+
+    String getName(){
+        return name;
+    }
+}
