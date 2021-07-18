@@ -1,0 +1,1 @@
+class id lbrace vtype id assign boolstr semi rbrace 

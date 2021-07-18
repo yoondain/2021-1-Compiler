@@ -1,0 +1,1 @@
+class id lbrace vtype id lparen vtype id comma vtype id rparen lbrace return id addsub id semi rbrace vtype id lparen rparen lbrace vtype id assign num semi return id semi rbrace vtype id lparen rparen lbrace return id semi rbrace rbrace 

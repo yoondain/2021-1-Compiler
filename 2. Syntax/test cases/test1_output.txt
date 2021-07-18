@@ -1,0 +1,1 @@
+class id lbrace vtype id assign num semi vtype id assign literal semi vtype id lparen rparen lbrace vtype id assign num semi vtype id semi while lparen boolstr rparen lbrace id assign num addsub num semi rbrace return id semi rbrace rbrace 
